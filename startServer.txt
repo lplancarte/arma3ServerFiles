@@ -1,2 +1,2 @@
 @echo
-start C:\Games\arma3\a3master\arma3server.exe "-profiles=C:\Games\arma3\a3master" -config=CONFIG_server.cfg -port=2302 -world=empty -mod=vn;
+start C:\Games\arma3\a3master\arma3server.exe "-profiles=C:\Games\arma3\a3master" -config=CONFIG_server.cfg -port=2302 -world=empty;
